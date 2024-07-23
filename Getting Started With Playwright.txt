@@ -1,0 +1,10 @@
+1. Create a folder in your PC.
+2. Open that folder using any IDE. E.g Visual Studio Code
+3. Open the terminal in the location of that folder.
+4. Run the command - npm init playwright@latest
+5. Select preferred options.
+
+
+To run existing tests - npx playwright tests
+To show the html report  - npx playwright show-report  . Press c to stop report.
+To open the playwright ui - npx playwright test --ui
